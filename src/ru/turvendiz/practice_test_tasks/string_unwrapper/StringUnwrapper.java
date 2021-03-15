@@ -1,4 +1,4 @@
-package ru.turvendiz.practiceTestTask.task1;
+package ru.turvendiz.practice_test_tasks.string_unwrapper;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
